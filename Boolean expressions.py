@@ -1,0 +1,10 @@
+a=10
+print(bool(a))
+b=10.6
+print(bool(b))
+c="cse"
+print(bool(c))
+d=""
+print(bool(d))
+a=True
+print(type(a))
